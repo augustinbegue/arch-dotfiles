@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=rofi-bluetooth
+Exec="/bin/rofi-bluetooth" %f
+Comment=Bluetooth Manager
+Categories=Setting;Bluetooth;
+Terminal=false
