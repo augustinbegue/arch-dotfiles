@@ -268,7 +268,7 @@ adapter = AC
 full-at = 98
 
 format-charging = <animation-charging> <label-charging>
-format-charging-underline = ${colors.warning}
+format-charging-underline = ${colors.success}
 
 format-discharging = <animation-discharging> <label-discharging>
 format-discharging-underline = ${colors.warning}
